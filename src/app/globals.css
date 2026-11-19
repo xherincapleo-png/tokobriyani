@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-deep-green: #173F35;
+  --brand-forest-green: #285747;
+  --brand-cream: #F7F1E5;
+  --brand-off-white: #FCFAF6;
+  --brand-spice-orange: #C96A35;
+  --brand-charcoal: #272923;
+  --brand-muted-gray: #7A7A70;
+  --brand-border: #E8E3D8;
+
+  --background: 40 50% 98%;
+  --foreground: 75 8% 15%;
+  --card: 40 50% 98%;
+  --card-foreground: 75 8% 15%;
+  --popover: 40 50% 98%;
+  --popover-foreground: 75 8% 15%;
+  --primary: 165 46% 17%;
+  --primary-foreground: 40 50% 98%;
+  --secondary: 39 50% 93%;
+  --secondary-foreground: 165 46% 17%;
+  --muted: 39 40% 92%;
+  --muted-foreground: 60 5% 46%;
+  --accent: 22 58% 50%;
+  --accent-foreground: 40 50% 98%;
+  --destructive: 0 65% 48%;
+  --destructive-foreground: 40 50% 98%;
+  --border: 41 26% 88%;
+  --input: 41 26% 85%;
+  --ring: 165 46% 17%;
+  --radius: 0.5rem;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+
+  body {
+    @apply bg-[#FCFAF6] text-[#272923] font-sans antialiased;
+    overflow-x: hidden;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-serif tracking-tight;
+  }
+}
+
+.editorial-surface {
+  background-color: #F7F1E5;
+  background-image: radial-gradient(rgba(23, 63, 53, 0.035) 1px, transparent 0);
+  background-size: 22px 22px;
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" role="img" aria-label="Toko Briyani Emblem">
+  <rect width="64" height="64" rx="12" fill="#173F35"/>
+  <rect x="4.5" y="4.5" width="55" height="55" rx="8.5" stroke="#F7F1E5" stroke-opacity="0.22" stroke-width="1.2"/>
+  <path d="M32 13C40.5 21 42.5 33 32 50.5C21.5 33 23.5 21 32 13Z" stroke="#F7F1E5" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M32 49.5C22.5 44 17.5 35.5 19.5 25.5" stroke="#F7F1E5" stroke-opacity="0.72" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M32 49.5C41.5 44 46.5 35.5 44.5 25.5" stroke="#F7F1E5" stroke-opacity="0.72" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M32 18V46" stroke="#F7F1E5" stroke-opacity="0.35" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M32 27.5L35.2 31.5L32 35.5L28.8 31.5L32 27.5Z" fill="#C96A35"/>
+</svg>

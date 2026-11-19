@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 72" width="380" height="72" fill="none" role="img" aria-label="Toko Briyani Light Wordmark">
+  <g transform="translate(4, 8)">
+    <rect width="56" height="56" rx="10" fill="#285747" stroke="#F7F1E5" stroke-opacity="0.22" stroke-width="1"/>
+    <path d="M28 11.5C35.4 18.5 37.2 29 28 44.2C18.8 29 20.6 18.5 28 11.5Z" stroke="#F7F1E5" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M28 43.2C19.8 38.4 15.4 31 17.2 22.3" stroke="#F7F1E5" stroke-opacity="0.75" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M28 43.2C36.2 38.4 40.6 31 38.8 22.3" stroke="#F7F1E5" stroke-opacity="0.75" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M28 16V40" stroke="#F7F1E5" stroke-opacity="0.35" stroke-width="1.1" stroke-linecap="round"/>
+    <path d="M28 24.2L30.8 27.6L28 31L25.2 27.6L28 24.2Z" fill="#C96A35"/>
+  </g>
+  <text x="76" y="39" fill="#FCFAF6" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-weight="400" letter-spacing="4">TOKO BRIYANI</text>
+  <line x1="77" y1="50" x2="108" y2="50" stroke="#C96A35" stroke-width="1.4"/>
+  <text x="118" y="53.5" fill="#F7F1E5" fill-opacity="0.72" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="9.5" font-weight="500" letter-spacing="3">AROMATIC BRIYANI KITCHEN</text>
+</svg>
